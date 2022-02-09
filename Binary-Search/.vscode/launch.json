@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch IntersectionOfTwoArraysII_350",
+            "request": "launch",
+            "mainClass": "LeetCode.IntersectionOfTwoArraysII_350",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch KokoEatingBananas_875",
+            "request": "launch",
+            "mainClass": "LeetCode.KokoEatingBananas_875",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch MedianOfTwoSortedArrays_4",
+            "request": "launch",
+            "mainClass": "LeetCode_Hard.MedianOfTwoSortedArrays_4",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleElementInSortedArray_540",
+            "request": "launch",
+            "mainClass": "LeetCode.SingleElementInSortedArray_540",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Fundamentals.BinarySearch",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeilingOfANumber",
+            "request": "launch",
+            "mainClass": "Fundamentals.CeilingOfANumber",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstOccurence",
+            "request": "launch",
+            "mainClass": "Fundamentals.FirstOccurence",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloorOfANumber",
+            "request": "launch",
+            "mainClass": "Fundamentals.FloorOfANumber",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastOccurence",
+            "request": "launch",
+            "mainClass": "Fundamentals.LastOccurence",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDistanceValueBetweenTwoArrays_1385",
+            "request": "launch",
+            "mainClass": "LeetCode.FindDistanceValueBetweenTwoArrays_1385",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindFirstLastPositionSortedArray_34",
+            "request": "launch",
+            "mainClass": "LeetCode.FindFirstLastPositionSortedArray_34",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinimumRotatedSortedArrayII_154",
+            "request": "launch",
+            "mainClass": "LeetCode.FindMinimumRotatedSortedArrayII_154",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinimumRotatedSortedArray_153",
+            "request": "launch",
+            "mainClass": "LeetCode.FindMinimumRotatedSortedArray_153",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPeakElement_162",
+            "request": "launch",
+            "mainClass": "LeetCode.FindPeakElement_162",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstBadVersion_278",
+            "request": "launch",
+            "mainClass": "LeetCode.FirstBadVersion_278",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessNumberHigherOrLower_374",
+            "request": "launch",
+            "mainClass": "LeetCode.GuessNumberHigherOrLower_374",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntersectionOfTwoArrays_349",
+            "request": "launch",
+            "mainClass": "LeetCode.IntersectionOfTwoArrays_349",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch PeakIndexMountainArray_852",
+            "request": "launch",
+            "mainClass": "LeetCode.PeakIndexMountainArray_852",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedArraySolution1_33",
+            "request": "launch",
+            "mainClass": "LeetCode.SearchInRotatedArraySolution1_33",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedArraySolution2_33",
+            "request": "launch",
+            "mainClass": "LeetCode.SearchInRotatedArraySolution2_33",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedSortedArray_33",
+            "request": "launch",
+            "mainClass": "LeetCode.SearchInRotatedSortedArray_33",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchRotatedSortedArrayII_81",
+            "request": "launch",
+            "mainClass": "LeetCode.SearchRotatedSortedArrayII_81",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchRotatedSortedArray_33",
+            "request": "launch",
+            "mainClass": "LeetCode.SearchRotatedSortedArray_33",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestLetterGreaterTarget_744",
+            "request": "launch",
+            "mainClass": "LeetCode.SmallestLetterGreaterTarget_744",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sqrt_69",
+            "request": "launch",
+            "mainClass": "LeetCode.Sqrt_69",
+            "projectName": "Binary-Search_82d99a41"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidPerfectSquare_367",
+            "request": "launch",
+            "mainClass": "LeetCode.ValidPerfectSquare_367",
+            "projectName": "Binary-Search_82d99a41"
+        }
+    ]
+}

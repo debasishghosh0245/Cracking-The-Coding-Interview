@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntersectionOfTwoLinkedLists160",
+            "request": "launch",
+            "mainClass": "LeetCode.IntersectionOfTwoLinkedLists160",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListCycleII_142",
+            "request": "launch",
+            "mainClass": "LeetCode.LinkedListCycleII_142",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListCycle_141",
+            "request": "launch",
+            "mainClass": "LeetCode.LinkedListCycle_141",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSortedLists_21",
+            "request": "launch",
+            "mainClass": "LeetCode.MergeTwoSortedLists_21",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiddleOfTheLinkedList_876",
+            "request": "launch",
+            "mainClass": "LeetCode.MiddleOfTheLinkedList_876",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeLinkedList_234",
+            "request": "launch",
+            "mainClass": "LeetCode.PalindromeLinkedList_234",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicatedFromUnsortedList_1836",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveDuplicatedFromUnsortedList_1836",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicatesFromSortedListII_82",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveDuplicatesFromSortedListII_82",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicatesFromSortedList_83",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveDuplicatesFromSortedList_83",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveLinkedListElements_203",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveLinkedListElements_203",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveNthNodeFromEndOfList_19",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveNthNodeFromEndOfList_19",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedList_206",
+            "request": "launch",
+            "mainClass": "LeetCode.ReverseLinkedList_206",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapNodesInPairs_24",
+            "request": "launch",
+            "mainClass": "LeetCode.SwapNodesInPairs_24",
+            "projectName": "LinkedList_1aa7b04a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SinglyLinkedListMain",
+            "request": "launch",
+            "mainClass": "SinglyLinkedListMain",
+            "projectName": "LinkedList_1aa7b04a"
+        }
+    ]
+}
