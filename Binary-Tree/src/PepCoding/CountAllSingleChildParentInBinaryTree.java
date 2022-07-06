@@ -1,0 +1,78 @@
+import java.io.*;
+import java.util.*;
+public class CountAllSingleChildParentInBinaryTree {
+    
+    private static int idx=0; 
+ 
+    public static class Node {
+        int data;
+        Node left;
+        Node right;
+        Node(int data){
+            this.data=data;
+        }
+        Node(int data, Node left, Node right) {
+            this.data = data;
+            this.left = left;
+            this.right = right;
+        }
+    }
+    
+    public static class Pair {
+        Node node;
+        int state;
+        Pair(Node node, int state) {
+            this.node = node;
+            this.state = state;
+       }
+    }
+
+    public static Node construct(Integer[] arr) {
+       if(idx > arr.length) return null;
+       if(arr[idx]==null){
+           idx++;
+           return null;
+       } 
+       Node node=new Node(arr[idx++]);
+       node.left=construct(arr);
+       node.right=construct(arr);
+       return node;
+    }
+
+    public static void display(Node node) {
+        if (node == null) {
+            return;
+        }
+        String str = "";
+        str += node.left == null ? "." : node.left.data + "";
+        str += " <- " + node.data + " -> ";
+        str += node.right == null ? "." : node.right.data + "";
+        System.out.println(str);
+        display(node.left);
+        display(node.right);
+    }
+
+    public static void main(String[] args) throws Exception {
+        //Integer[] arr={4,2,1,12,null,null,null,3,13,null,null,null,
+        //6,5,10,null,null,null,7,14,null,null,null}; 
+        Integer[] arr={3,1,null,null,null};
+        Node root = construct(arr);
+        //display(root);
+        ArrayList<Integer> list=new ArrayList<>();
+        System.out.println(printSingleChild(root,null,list).size());
+    }
+    
+    public static ArrayList<Integer> printSingleChild(Node child,
+        Node parent, ArrayList<Integer> list) {
+        if(child==null) return list;
+        if(parent!=null && parent.left!=null && parent.right==null){
+            list.add(child.data);
+        }
+        if(parent!=null && parent.left==null && parent.right!=null){
+            list.add(child.data);
+        }
+        printSingleChild(child.left,child,list);
+        printSingleChild(child.right,child,list);
+        return list;
+    }
+}
